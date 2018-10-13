@@ -37,6 +37,9 @@ Hier wurde auch der Button "Choose entry" gedrückt. Man sieht gut, wie man auf 
 
 <img src="images/GUI-finished.png" />
 
+### Anmerkung
+Man sieht sehr gut wie durch die Verwendung eigener Dateien für die einzelnen Elemente (main.js und dropdown.js) die Komplexität verringert werden kann.
+
 index.html
 
 ```html
