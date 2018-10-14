@@ -17,6 +17,9 @@ Zuerst wird ein Name gepostet ...
 
 Bei jedem erfolgreichem POST, wird in der Console des Servers der Name ausgegeben.
 
+<img src="images/JEE-server.png" />
+
+
 ## Durchführen des Demos
 
 Für das LitElement - Demo öffnet man das Projekt.
@@ -39,6 +42,18 @@ Hier wurde auch der Button "Choose entry" gedrückt. Man sieht gut, wie man auf 
 
 ### Anmerkung
 Man sieht sehr gut wie durch die Verwendung eigener Dateien für die einzelnen Elemente (main.js und dropdown.js) die Komplexität verringert werden kann.
+
+## Deployment
+
+Polymer/LitElement-Projekte können auch auf Nicht-NodeJS-Servern wie bspw Apache httpd deployed werden.
+
+```
+polymer build
+```
+
+Das so erstellte build-Verzeichnis muss nun auf den jeweiligen Server übertragen werden.
+
+### Sourcecode
 
 index.html
 
