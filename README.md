@@ -221,4 +221,5 @@ customElements.define("my-dropdown", Dropdown);
 
 - <https://github.com/LarsDenBakker/lit-html-examples>
 - <https://43081j.com/2018/08/future-of-polymer>
-- 
+- <https://polymer.github.io/pwa-starter-kit/>
+- <https://github.com/material-components/material-components-web-components>
