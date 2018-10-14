@@ -219,4 +219,6 @@ customElements.define("my-dropdown", Dropdown);
 
 ## Links
 
-<https://github.com/LarsDenBakker/lit-html-examples>
+- <https://github.com/LarsDenBakker/lit-html-examples>
+- <https://43081j.com/2018/08/future-of-polymer>
+- 
