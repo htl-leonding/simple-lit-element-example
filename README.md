@@ -216,3 +216,7 @@ class Dropdown extends LitElement {
 
 customElements.define("my-dropdown", Dropdown);
 ```
+
+## Links
+
+<https://github.com/LarsDenBakker/lit-html-examples>
